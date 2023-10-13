@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /lcrc/project/nanowire/sangbaek/eic/scripts/
+source /lcrc/project/nanowire/sangbaek/eic/tutorial/epic/install/setup.sh
+ddsim --steeringFile /lcrc/project/nanowire/sangbaek/eic/steering/He4_40GeV_41GeV_forward.py
